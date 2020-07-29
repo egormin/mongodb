@@ -1,4 +1,8 @@
 ### Commands
+***Show all databases***
+```
+show dbs
+```
 
 ***Insert one row***
 ```
